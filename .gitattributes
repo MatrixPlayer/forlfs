@@ -631,7 +631,6 @@ data/testimg/pedestrian/attribute/7.jpg filter=lfs diff=lfs merge=lfs -text
 data/testimg/pedestrian/attribute/8.jpg filter=lfs diff=lfs merge=lfs -text
 data/testimg/pedestrian/attribute/9.jpg filter=lfs diff=lfs merge=lfs -text
 data/testimg/pedestrian/attribute filter=lfs diff=lfs merge=lfs -text
-data/testimg/pedestrian/attribute/result.txt filter=lfs diff=lfs merge=lfs -text
 data/testimg/pedestrian filter=lfs diff=lfs merge=lfs -text
 data/testimg/pedestrian/number/0.jpg filter=lfs diff=lfs merge=lfs -text
 data/testimg/pedestrian/number/1.jpg filter=lfs diff=lfs merge=lfs -text
